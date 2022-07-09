@@ -1,3 +1,3 @@
 # World Cicker
 
-[Test](#link){: .btn .btn--primary}
+[Test](: .btn .btn--primary)
